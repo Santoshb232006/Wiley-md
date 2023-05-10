@@ -34,7 +34,7 @@ node .
 > You can change in `config.js`, on global.owner. make sure you use correct syntax.
 ```js
 global.owner = [
-  ['919172389527', 'shizo', true]
+  ['918689911747', 'shizo', true]
 ]
 ```
 
