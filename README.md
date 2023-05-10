@@ -11,7 +11,7 @@ $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 $ pkg install yarn -y
-$ git clone https://github.com/Shizothetechie/Wiley-md 
+$ git clone https://github.com/Santoshb232006/Wiley-md
 $ cd Wiley-md 
 $ yarn
 ```
